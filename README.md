@@ -2,15 +2,35 @@
 
 # 👋 Hi, I'm **Kishan Patel**
 
-### 🚀 Frontend Developer | React Enthusiast | Web Developer
+### 🚀 Frontend Developer | ⚡ React Enthusiast | 💻 Web Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Frontend+Developer+%7C+React+%7C+JavaScript;Building+Modern+Responsive+Web+Applications;Creating+Clean+UI+%26+Smooth+User+Experience;Always+Learning+New+Frontend+Technologies+🚀" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=kishan90909&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+
+</div>
 
 ---
 
+## 👨‍💻 About Me
+
+* 🎓 MCA Student at **Parul University**
+* 💻 Passionate about **Frontend Development**
+* ⚡ Building responsive, modern, and user-friendly websites
+* 🎨 Focused on clean UI & smooth UX
+* 🚀 Exploring React ecosystem and modern JavaScript frameworks
+* 🎯 Looking for **Frontend Developer / Web Developer Opportunities**
+
+---
+
+
 ## 📬 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kpb983466@gmail.com)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](YOUR_INSTAGRAM)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kishan-patel-597792329)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kpatel.tech.mca@gmail.com)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/kishanpatel.001/)
 
 ---
 
