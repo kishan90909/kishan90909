@@ -60,8 +60,6 @@
 
 ## 📊 GitHub Activity:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kishan90909\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kishan90909\&theme=tokyonight\&hide_border=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kishan90909\&theme=tokyo-night)
