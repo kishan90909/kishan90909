@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Kishan Patel**
 
-### 🚀 Frontend Developer | ⚡ React Enthusiast | 💻 Web Developer
+### 🚀 Software Developer | ⚡ React Enthusiast | 💻 Web Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Frontend+Developer+%7C+React+%7C+JavaScript;Building+Modern+Responsive+Web+Applications;Creating+Clean+UI+%26+Smooth+User+Experience;Always+Learning+New+Frontend+Technologies+🚀" />
 
@@ -17,11 +17,11 @@
 ## 👨‍💻 About Me
 
 * 🎓 MCA Student at **Parul University**
-* 💻 Passionate about **Frontend Development**
+* 💻 Passionate about **Software Development**
 * ⚡ Building responsive, modern, and user-friendly websites
 * 🎨 Focused on clean UI & smooth UX
 * 🚀 Exploring React ecosystem and modern JavaScript frameworks
-* 🎯 Looking for **Frontend Developer / Web Developer Opportunities**
+* 🎯 Looking for **Software Developer / Web Developer Opportunities**
 
 ---
 
